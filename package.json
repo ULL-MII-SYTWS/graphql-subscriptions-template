@@ -1,0 +1,24 @@
+{
+  "name": "graphql-yoga-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crguezl/graphql-yoga-examples.git"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crguezl/graphql-yoga-examples/issues"
+  },
+  "homepage": "https://github.com/crguezl/graphql-yoga-examples#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
